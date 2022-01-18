@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://xavierlynx.github.io/csb-12imz/static/js/main.f1ebc1df.chunk.js",
+    "main.js.map": "https://xavierlynx.github.io/csb-12imz/static/js/main.f1ebc1df.chunk.js.map",
+    "runtime-main.js": "https://xavierlynx.github.io/csb-12imz/static/js/runtime-main.62fd204a.js",
+    "runtime-main.js.map": "https://xavierlynx.github.io/csb-12imz/static/js/runtime-main.62fd204a.js.map",
+    "static/js/2.3e9b64a4.chunk.js": "https://xavierlynx.github.io/csb-12imz/static/js/2.3e9b64a4.chunk.js",
+    "static/js/2.3e9b64a4.chunk.js.map": "https://xavierlynx.github.io/csb-12imz/static/js/2.3e9b64a4.chunk.js.map",
+    "index.html": "https://xavierlynx.github.io/csb-12imz/index.html",
+    "static/js/2.3e9b64a4.chunk.js.LICENSE.txt": "https://xavierlynx.github.io/csb-12imz/static/js/2.3e9b64a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62fd204a.js",
+    "static/js/2.3e9b64a4.chunk.js",
+    "static/js/main.f1ebc1df.chunk.js"
+  ]
+}
